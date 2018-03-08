@@ -34,15 +34,3 @@ class App extends Component {
 }
 
 export default App;
-
-/* installed dependencies...
-npm install
-npm install --save react-navigation
-npm install --save redux
-npm install --save react-redux
-npm install --save firebase
-npm install --save redux-thunk
-npm install --save base-64
-npm install --save react-native-tab-view
-npm install --save lodash
-*/

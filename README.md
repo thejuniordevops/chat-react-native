@@ -1,6 +1,8 @@
 ## Whisper
 
-Chatting in WhatsApp Development
+Instant messaging system.
+
+## 
 
 ## How to run
 1. `npm install`
